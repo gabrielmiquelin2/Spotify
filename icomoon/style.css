@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?dtwtvy');
-  src:  url('fonts/icomoon.eot?dtwtvy#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?dtwtvy') format('truetype'),
-    url('fonts/icomoon.woff?dtwtvy') format('woff'),
-    url('fonts/icomoon.svg?dtwtvy#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?73g1cy');
+  src:  url('fonts/icomoon.eot?73g1cy#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?73g1cy') format('truetype'),
+    url('fonts/icomoon.woff?73g1cy') format('woff'),
+    url('fonts/icomoon.svg?73g1cy#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,9 +25,27 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-headphones:before {
+  content: "\e910";
+}
+.icon-music:before {
+  content: "\e911";
+}
+.icon-mobile:before {
+  content: "\e958";
+}
+.icon-mobile2:before {
+  content: "\e959";
+}
 .icon-user:before {
   content: "\e971";
 }
 .icon-spotify:before {
   content: "\ea94";
+}
+.icon-github:before {
+  content: "\eab0";
+}
+.icon-linkedin:before {
+  content: "\eac9";
 }
