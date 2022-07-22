@@ -1,0 +1,38 @@
+html, body{
+  height: 100%;
+}
+
+body{
+  margin: 0;
+ 
+}
+ 
+h1{
+  color: white;
+}
+.header-top{
+  padding-top: 10px;
+  background-color: black;
+}
+
+.top-nav{
+  text-align: right;
+  display: inline-block;
+  
+}
+
+.top-nav ul{
+  margin: 0;
+  padding: 1em 0;
+  list-style: none;
+  
+}
+
+
+
+.top-nav a{
+  color:white;
+  text-decoration: none;
+  padding: .3em;
+  display: block;
+}
