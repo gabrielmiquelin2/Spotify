@@ -10,3 +10,15 @@ body{
 h1{
   color: white;
 }
+
+.header-top{
+  padding-top: 10px;
+  background: black;
+}
+
+.top-nav{
+  display: flex;
+}
+
+
+
