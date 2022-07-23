@@ -1,24 +1,29 @@
-html, body{
-  height: 100%;
+
+*{
+   text-decoration: none;
 }
 
-body{
-  margin: 0;
- 
+html,body{
+  height: 100%;
 }
  
 h1{
   color: white;
 }
 
+
 .header-top{
-  padding-top: 10px;
   background: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }
 
-.top-nav{
-  display: flex;
-}
+
+
+
+
+
 
 
 
